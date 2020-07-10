@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hello there! 👋
 
 - 🔭 I’m currently working on: A secret React project. sshhh.
 - 🌱 I’m currently learning: NextJS and GraphQL
