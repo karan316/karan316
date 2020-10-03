@@ -16,13 +16,27 @@ I am in Full Stack Development using MERN <span><img style="width: 15px" src="./
 ### Tech Stack
 
 <div style="margin-bottom: 20px;">
+<code>
   <span ><img style="height: 50px; width: 50px;" src="./svg/react-2.svg"></span>
+  </code>
+  <code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/nodejs-1.svg"></span>
+  </code>
+<code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/graphql.svg"></span>
+</code>
+<code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/nextjs.svg"></span>
+</code>
+<code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/typescript.svg"></span>
+</code>
+<code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/mongodb.svg"></span>
+</code>
+<code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/tailwindcss.svg"></span>
-</div>
+</code>
 
+</div>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=karan316&show_icons=true&hide_border=true" />
