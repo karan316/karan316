@@ -17,13 +17,13 @@ I am in Full Stack Development using MERN <span><img style="width: 15px" src="./
 
 <div style="margin-bottom: 20px;">
 <code>
-  <span ><img style="height: 50px; width: 50px;" src="./svg/react-2.svg"></span>
+  <span ><img style="height: 50px; width: 50px;" src="./svg/react-large.svg"></span>
   </code>
   <code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/nodejs-1.svg"></span>
 <code>
   </code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/graphql.svg"></span>
+<span ><img style="height: 50px; width: 50px;" src="./svg/graphql-large.svg"></span>
 <code>
 </code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/nextjs.svg"></span>
