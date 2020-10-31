@@ -53,4 +53,11 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 </details>
 
 <!--START_SECTION:waka-->
+```text
+JSX          3 hrs 39 mins   █████████████░░░░░░░░░░░░   51.76 % 
+JavaScript   2 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.97 % 
+SCSS         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+```
 <!--END_SECTION:waka-->
