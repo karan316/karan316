@@ -51,3 +51,6 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan316&exclude_repo=foodviraam-task&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </div>
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
