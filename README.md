@@ -39,6 +39,9 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 
 </code>
 </div>
+
+<br />
+
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
