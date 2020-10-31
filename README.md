@@ -15,6 +15,8 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 
 ### Tech Stack
 
+<br />
+
 <div style="margin-bottom: 20px;">
 <code>
   <span ><img style="height: 50px; width: 50px;" src="./svg/react-large.svg"></span>
@@ -40,6 +42,10 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 </code>
 </div>
 
+<br />
+
+### Weekly Coding Stats
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -54,11 +60,9 @@ Markdown     6 mins          ▒░░░░░░░░░░░░░░░░
 
 <br />
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+### Github Stats
 
-  <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan316&show_icons=true&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan316&exclude_repo=foodviraam-task&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </div>
-</details>
