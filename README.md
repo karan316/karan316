@@ -1,6 +1,6 @@
 ## Hello there! 👋, I'm [Karan Hejmadi!](https://github.com/karan316/)
 
-I am in Full Stack Development using MERN <span><img style="width: 15px" src="./svg/react-2.svg"> </span> <span><img style="width: 15px" src="./svg/nodejs-icon.svg"> </span> stack with a keen eye on UI/UX design. Pursuing 🎓 Bachelor of Technology focused in 👨🏻‍💻 Computer and Communication Engineering from 🏛 Manipal Institute of Technology.
+I am in Full Stack Development using MERN <span><img style="width: 15px; height: 15px;" src="./svg/react-2.svg"> </span> <span><img style="width: 15px; height: 15px;" src="./svg/nodejs-icon.svg"> </span> stack with a keen eye on UI/UX design. Pursuing 🎓 Bachelor of Technology focused in 👨🏻‍💻 Computer and Communication Engineering from 🏛 Manipal Institute of Technology.
 
 [![Github Badge](https://img.shields.io/badge/Website-3b5998?color=green&style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.karanhejmadi.tech/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-hejmadi/)
@@ -39,4 +39,9 @@ I am in Full Stack Development using MERN <span><img style="width: 15px" src="./
 
 </code>
 </div>
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=karan316&show_icons=true&hide_border=true" />
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan316&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan316&exclude_repo=foodviraam-task&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
+</details>
