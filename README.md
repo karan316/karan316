@@ -48,11 +48,11 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 
 <!--START_SECTION:waka-->
 ```text
-JSX          3 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.09 % 
-JavaScript   2 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.08 % 
-Markdown     1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-SCSS         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript   2 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.78 % 
+JSX          2 hrs 24 mins   █████████░░░░░░░░░░░░░░░░   35.45 % 
+Markdown     1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+SCSS         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 <!--END_SECTION:waka-->
 
