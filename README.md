@@ -26,7 +26,7 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 <code>
   </code>
     <code>
-<!-- <span ><img style="height: 50px; width: 50px;" src="./svg/apollo-graphql-compact.svg"></span> -->
+<span ><img style="height: 50px; width: 50px;" src="./svg/apollo-graphql-compact.svg"></span>
 <code>
   </code>
 <span ><img style="height: 50px; width: 50px;" src="./svg/graphql-large.svg"></span>
