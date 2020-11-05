@@ -22,7 +22,7 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
   <span ><img style="height: 50px; width: 50px;" src="./svg/react-large.svg"></span>
 </code>
   <code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/nodejs-1.svg"></span>
+<!-- <span ><img style="height: 50px; width: 50px;" src="./svg/nodejs-1.svg"></span> -->
 <code>
   </code>
     <code>
