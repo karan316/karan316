@@ -49,15 +49,10 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 ### Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-
 ```text
-JavaScript   2 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.78 %
-JSX          2 hrs 24 mins   █████████░░░░░░░░░░░░░░░░   35.45 %
-Markdown     1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   19.48 %
-SCSS         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JavaScript   2 hrs 8 mins    ████████████████░░░░░░░░░   63.34 % 
+Markdown     1 hr 13 mins    █████████░░░░░░░░░░░░░░░░   36.20 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <br />
