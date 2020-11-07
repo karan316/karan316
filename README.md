@@ -50,8 +50,7 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 8 mins    ████████████████░░░░░░░░░   63.34 % 
-Markdown     1 hr 13 mins    █████████░░░░░░░░░░░░░░░░   36.20 % 
+Markdown   1 hr 13 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
