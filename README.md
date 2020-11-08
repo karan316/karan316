@@ -50,7 +50,7 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 13 mins    █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
