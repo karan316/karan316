@@ -6,7 +6,7 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-hejmadi/)
 
 -   👨🏻‍💻 MERN Developer, Product Designer
--   Currently Exploring:<span> <img style="width: 15px; margin-left: 10px;" src="./svg/graphql.svg" ></span> <span> <img style="width: 15px; margin-left: 10px;" src="./svg/nextjs.svg" ></span>
+-   Currently Exploring:<span> <img style="width: 15px; margin-left: 10px;" src="./svg/graphql.svg" ></span> <span> <img style="margin-left: 10px;" src="./svg/nextjs.svg" ></span>
 
 -   📫 How to reach me:
     -   Connect via LinkedIn: https://www.linkedin.com/in/karan-hejmadi/
@@ -49,9 +49,11 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 ### Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 <br />
