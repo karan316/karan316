@@ -49,11 +49,9 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 ### Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-
 ```text
 No Activity tracked this Week
 ```
-
 <!--END_SECTION:waka-->
 
 <br />
