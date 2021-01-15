@@ -10,7 +10,7 @@ I am in Full Stack Development using MERN <span><img style="width: 15px; height:
 
 -   📫 How to reach me:
     -   Connect via LinkedIn: https://www.linkedin.com/in/karan-hejmadi/
-    -   Website: https://karanhejmadi.tech/
+    -   Website: https://karanhejmadi.netlify.app/
 -   ⚡ Fun fact: A coder who doesn't rely on coffee. ☕
 
 ### Tech Stack
