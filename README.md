@@ -8,7 +8,7 @@ I am into Full Stack Development using MERN <span><img style="width: 15px; heigh
 
 <br/>
 
-[![Github Badge](https://img.shields.io/badge/Website-3b5998?color=green&style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.karanhejmadi.tech/)
+[![Github Badge](https://img.shields.io/badge/Website-3b5998?color=green&style=for-the-badge&logo=google-chrome&logoColor=white)](https://karanhejmadi.netlify.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-hejmadi/)
 
 <br />
