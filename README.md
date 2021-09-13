@@ -1,8 +1,6 @@
 ## Hi there! 👋, I'm [Karan!](https://github.com/karan316/)
 
-<br/>
-<div><img src='https://komarev.com/ghpvc/?username=karan316&style=flat-square&label=PROFILE+VIEWS&color=ad03fc' alt='🌫' /></div>
-<br/>
+
 <div>
 I am into Full Stack Development using MERN <span><img style="width: 15px; height: 15px;" src="./svg/react-2.svg"> </span> <span><img style="width: 15px; height: 15px;" src="./svg/nodejs-icon.svg"> </span> stack with a keen eye on UI/UX design. OPEN to full-time/freelance offers. Pursuing 🎓 Bachelor of Technology focused in 👨🏻‍💻 Computer and Communication Engineering from 🏛 Manipal Institute of Technology.</div>
 
@@ -59,6 +57,10 @@ I am into Full Stack Development using MERN <span><img style="width: 15px; heigh
 </div>
 
 <br />
+
+<br/>
+<div><img src='https://komarev.com/ghpvc/?username=karan316&style=for-the-badge&label=PROFILE+VIEWS&color=2640ff' alt='🌫' /></div>
+<br/>
 
 ### Github Stats
 
