@@ -2,7 +2,8 @@
 
 
 <div>
-I am into Full Stack Development using MERN <span><img style="width: 15px; height: 15px;" src="./svg/react-2.svg"> </span> <span><img style="width: 15px; height: 15px;" src="./svg/nodejs-icon.svg"> </span> stack with a keen eye on UI/UX design. OPEN to full-time/freelance offers. Pursuing 🎓 Bachelor of Technology focused in 👨🏻‍💻 Computer and Communication Engineering from 🏛 Manipal Institute of Technology.</div>
+I am into Full Stack Development using MERN <span><img style="width: 15px; height: 15px;" src="./svg/react-2.svg"> </span> <span><img style="width: 15px; height: 15px;" src="./svg/nodejs-icon.svg"> </span> stack with a keen eye on UI/UX design. OPEN to full-time/freelance offers. 
+Pursuing 🎓 Bachelor of Technology focused in 👨🏻‍💻 Computer and Communication Engineering from 🏛 Manipal Institute of Technology.</div>
 
 <br/>
 
