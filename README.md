@@ -21,10 +21,6 @@ Pursuing 🎓 Bachelor of Technology focused in 👨🏻‍💻 Computer and Com
 -   👨🏻‍💻 MERN Developer, Product Designer
 -   Currently Exploring:<span> <img style="width: 15px; margin-left: 10px;" src="./svg/graphql.svg" ></span> <span> <img style="margin-left: 10px;" src="./svg/nextjs.svg" ></span>
 
--   📫 How to reach me:
-    -   Connect via LinkedIn: https://www.linkedin.com/in/karan-hejmadi/
-    -   Website: https://karanhejmadi.netlify.app/
--   ⚡ Fun fact: A coder who doesn't rely on coffee. ☕
 
 ### Tech Stack
 
