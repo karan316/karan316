@@ -16,9 +16,7 @@ I am into Full Stack Development using MERN <span><img style="width: 15px; heigh
 	
 	
 
-<br />
--   👨🏻‍💻 MERN Developer, Product Designer
--   Currently Exploring:<span> <img style="width: 15px; margin-left: 10px;" src="./svg/graphql.svg" ></span> <span> <img style="margin-left: 10px;" src="./svg/nextjs.svg" ></span>
+
 
 
 ### Tech Stack
