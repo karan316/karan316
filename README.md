@@ -13,44 +13,7 @@ I am into Full Stack Development using MERN <span><img style="width: 15px; heigh
 [![Dribble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/karan316)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://karanhejmadi.hashnode.dev/)
 
-	
-	
 
-
-
-
-### Tech Stack
-
-<br />
-
-<div style="margin-bottom: 20px;">
-<code>
-  <span ><img style="height: 50px; width: 50px;" src="./svg/react-large.svg"></span>
-</code>
-<code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/nodejs-1.svg"></span>
-</code>
-<code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/apollo-graphql-compact.svg"></span>
-</code>
-<code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/graphql-large.svg"></span>
-</code>
-<code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/nextjs-large.svg"></span>
-</code>
-<code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/typescript.svg"></span>
-</code>
-<code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/mongodb.svg"></span>
-</code>
-<code>
-<span ><img style="height: 50px; width: 50px;" src="./svg/tailwindcss.svg"></span>
-</code>
-</div>
-
-<br />
 
 <br/>
 <div><img src='https://komarev.com/ghpvc/?username=karan316&style=for-the-badge&label=PROFILE+VIEWS&color=2640ff' alt='🌫' /></div>
