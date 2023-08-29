@@ -2,7 +2,7 @@
 
 
 <div>
-I design and develop web and mobile applications. Redefining manufacturing at Custiv.
+I design and develop web and mobile applications. Redefining manufacturing at [Custiv](https://www.custiv.com/).
 <br/>
 
 
