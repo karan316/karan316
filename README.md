@@ -1,9 +1,7 @@
 ## Hi there! 👋, I'm [Karan!](https://github.com/karan316/)
 
+I design and develop web and mobile applications. Redefining manufacturing 🏭 at [Custiv](https://www.custiv.com/).
 
-<div>
-I design and develop web and mobile applications. Redefining manufacturing at [Custiv](https://www.custiv.com/).
-<br/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-hejmadi/)
