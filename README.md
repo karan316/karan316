@@ -2,8 +2,7 @@
 
 
 <div>
-I am into Full Stack Development using MERN <span><img style="width: 15px; height: 15px;" src="./svg/react-2.svg"> </span> <span><img style="width: 15px; height: 15px;" src="./svg/nodejs-icon.svg"> </span> stack with a keen eye on UI/UX design. 
-
+I design and develop web and mobile applications. Redefining manufacturing at Custiv.
 <br/>
 
 
