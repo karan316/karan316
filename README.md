@@ -15,8 +15,4 @@ I design and develop web and mobile applications. Redefining manufacturing 🏭 
 <div><img src='https://komarev.com/ghpvc/?username=karan316&style=for-the-badge&label=PROFILE+VIEWS&color=2640ff' alt='🌫' /></div>
 <br/>
 
-### Github Stats
 
-<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan316&exclude_repo=foodviraam-task&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
-</div>
