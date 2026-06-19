@@ -22,9 +22,9 @@ I'm a design focused product engineer with a high bar for software quality. Curr
 ### 💻 Core Stack & Technologies
 
 *   **Frontend:** React, React Native, Next.js, Tanstack
-*   **Backend:** Node/TypeScript, NestJS, Python, Golang
+*   **Backend:** Node/TypeScript, NestJS, Python, Golang, GraphQL, REST
 *   **Infra:** Kafka, RabbitMQ, Redis, AWS, Azure
-*   **AI:** RAG, Vector Search, Azure Foundry, LangGraph, LangChain
+*   **AI:** RAG, Vector Search, LangGraph, LangChain
 *   **Data:** PostgreSQL, MongoDB, MySQL
 
 <br/>
