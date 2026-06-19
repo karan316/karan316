@@ -27,9 +27,4 @@ I'm a design focused product engineer with a high bar for software quality. Curr
 *   **AI:** RAG, Vector Search, Azure Foundry, LangGraph, LangChain
 *   **Data:** PostgreSQL, MongoDB, MySQL
 
-
-<br/>
-<div align="center">
-  <img src='https://komarev.com/ghpvc/?username=karan316&style=for-the-badge&label=PROFILE+VIEWS&color=000000' alt='Profile Views' />
-</div>
 <br/>
