@@ -10,12 +10,13 @@ I'm a design focused product engineer with a high bar for software quality. Curr
 
 ---
 
-### 🚀 My Personal Work
+### 🚀 Recent Side Projects
 
 *   **[PDF Cloak](https://pdfcloak.com)** — A privacy-focused, zero-server PDF editor with 30+ tools using WebAssembly.
 *   **[Piano Coach](https://piano-coach-bt6.pages.dev/)** — "Duolingo for piano learning," making musical education interactive. Built for my own practice.
 *   **[Lyrics Trainer](https://lyrics-trainer.karanhejmadi.workers.dev/)** — An app for learning regional songs through AI-transliterated lyrics.
 *   **[Voice Sense](https://voice-sense.vercel.app/)** — A smart audio recorder designed to capture only human voices.
+*   Check out more projects [here](https://github.com/karan316?tab=repositories)
 
 ---
 
